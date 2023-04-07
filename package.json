@@ -10,7 +10,7 @@
   },
   "private": true,
   "dependencies": {
-    "@sap-cloud-sdk/http-client": "^2.5.0",
+    "@sap-cloud-sdk/http-client": "^3.1.0",
     "hdb": "^0.18.3",
     "@sap/xssec": "^3",
     "passport": "^0",
